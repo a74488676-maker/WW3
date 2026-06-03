@@ -1,0 +1,88 @@
+{
+  "players": {
+    "7244408521": {
+      "country": "🇺🇸 آمریکا",
+      "group": "NATO",
+      "money": 500000000,
+      "level": "superpower",
+      "banned": false,
+      "nuclear_bomb": false,
+      "nuclear_approved": false,
+      "treasury_sent": 0,
+      "satisfaction": 50,
+      "food_factories": [],
+      "buildings": {
+        "central_bank": 0,
+        "bitcoin_miner": 0,
+        "money_printer": 0,
+        "treasury_deposits": [],
+        "gas_field": 0,
+        "oil_field": 0,
+        "power_plant": 0,
+        "entertainment": 0,
+        "gold_mine": 0,
+        "copper_mine": 0,
+        "silver_mine": 0,
+        "uranium_mine": 0,
+        "oil_gas_refinery": 0,
+        "medical": 0,
+        "police": 0,
+        "fire": 0,
+        "university": 0,
+        "bullet_factory": 0,
+        "military_base": 0,
+        "tank_factory": 0,
+        "missile_factory": null,
+        "air_factory": null,
+        "hack_room": 0,
+        "hack_rooms": [],
+        "defense_factory": 0,
+        "nuclear_plant": 0,
+        "nuclear_active": false,
+        "research_lab": 0,
+        "war_room": 0,
+        "satellite": 0,
+        "nuclear_approved": false,
+        "helicopter_factory": 0,
+        "transport_aircraft": 0,
+        "naval_factory": null,
+        "propaganda": 0
+      },
+      "military": {
+        "soldiers": 0,
+        "tanks": 0,
+        "fighters": 0,
+        "bombers": 0,
+        "helicopters": 0,
+        "warships": 0,
+        "aircraft_carriers": 0,
+        "submarines": 0,
+        "rifles": 0,
+        "missiles_cruise": 0,
+        "missiles_ballistic": 0,
+        "missiles_bunker": 0,
+        "drones_attack": 0,
+        "drones_recon": 0,
+        "drones_ewarf": 0,
+        "drones_mother": 0,
+        "air_defense": 0
+      },
+      "cyber_debuffs": {},
+      "university_unlocked": [],
+      "propaganda_used_today": false
+    }
+  },
+  "taken_countries": [
+    "🇺🇸 آمریکا"
+  ],
+  "un_admins": [],
+  "pending_trades": {},
+  "stocks": {
+    "🇺🇸 آمریکا": {
+      "price": 1000000,
+      "gain_pct": 0.0,
+      "sold": 0,
+      "last_update": "2026-06-03T08:53:36.308740"
+    }
+  }
+}
